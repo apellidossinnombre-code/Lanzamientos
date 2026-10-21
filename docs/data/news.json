@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792557598081,
+ "updatedAt": 1792575441175,
  "news": [
   {
    "id": 40499,
@@ -7,7 +7,7 @@
    "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
    "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
    "site": "Spaceflight Now",
-   "summary": "El lanzamiento en California tiene lugar pocas horas después de que la empresa haya presentado sus resultados del segundo trimestre como sociedad cotizada en bolsa. El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto para las 16:10 h PDT (19:10 h EDT / 23:10 UTC). ",
+   "summary": "El lanzamiento en California tiene lugar pocas horas después de que la empresa haya presentado sus resultados del segundo trimestre como sociedad cotizada en bolsa. El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto para las 16:10 h PDT (19:10 h EDT / 23:10 UTC).",
    "publishedAt": "2026-10-20T21:18:11Z",
    "eu": false
   },
@@ -129,36 +129,6 @@
    "site": "NASASpaceflight",
    "summary": "SpaceX avanza hacia sus dos próximas misiones de la Starship, mientras la empresa se dispone a cerrar…\nLa entrada «SpaceX trabaja en los hitos de los vuelos 15 y 16 de la Starship» se publicó por primera vez en NASASpaceFlight.com.",
    "publishedAt": "2026-10-18T16:31:04Z",
-   "eu": false
-  },
-  {
-   "id": 40420,
-   "title": "Soy Artemisa: Allison Mjoen",
-   "url": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261013-ph-ajn01-0029.jpg",
-   "site": "NASA",
-   "summary": "Mientras el propulsante sobreenfriado fluía hacia la etapa central y el cohete SLS (Sistema de Lanzamiento Espacial) de la NASA cobraba vida con un rugido, Allison Mjoen y su familia observaban la escena con asombro y orgullo. Mjoen, directora de operaciones de la NASA para el programa Exploration Ground Systems de la agencia, contribuyó a dar forma a los sistemas y las operaciones en tierra que algún día llevarán de nuevo a los seres humanos a […]",
-   "publishedAt": "2026-10-16T14:24:29Z",
-   "eu": false
-  },
-  {
-   "id": 40418,
-   "title": "Blue Origin añadirá nuevas plataformas de lanzamiento en Florida y pretende aumentar de forma significativa la frecuencia de vuelos del New Glenn",
-   "url": "https://spaceflightnow.com/2026/10/16/blue-origin-to-add-new-florida-launch-pads-seeks-aggressive-increase-in-new-glenn-flight-rate/",
-   "image": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261016-Blue-Origin-Map-of-Key-Facilities.png",
-   "site": "Spaceflight Now",
-   "summary": "Las mejoras en la infraestructura de lanzamiento también incluyen una importante ampliación de las instalaciones de fabricación en Rocket Park y la incorporación de nuevas barcazas de aterrizaje. ",
-   "publishedAt": "2026-10-16T13:17:28Z",
-   "eu": false
-  },
-  {
-   "id": 40413,
-   "title": "Blue Origin está apostando fuerte por el cohete New Glenn",
-   "url": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Blue-Origin-Upper-Stage-Facility-Still-Render.png",
-   "site": "Arstechnica",
-   "summary": "La infraestructura está diseñada para dar cabida a varios vuelos a la semana a finales de esta década.",
-   "publishedAt": "2026-10-16T10:00:54Z",
    "eu": false
   }
  ]
