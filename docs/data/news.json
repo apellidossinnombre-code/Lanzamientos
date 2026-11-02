@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793580674723,
+ "updatedAt": 1793602498963,
  "news": [
   {
    "id": 40669,
@@ -109,16 +109,6 @@
    "site": "NASASpaceflight",
    "summary": "En el mundo de los vuelos espaciales, la infraestructura de lanzamiento es fundamental para el despegue de los cohetes. Para las agencias y…\nLa entrada «Comparación de los plazos de construcción del KSC y Starbase para comprender el desarrollo de Starbase, en Luisiana» se publicó por primera vez en NASASpaceFlight.com.",
    "publishedAt": "2026-10-28T21:12:08Z",
-   "eu": false
-  },
-  {
-   "id": 40620,
-   "title": "La etapa central del SLS de Artemis III se une a los propulsores en Kennedy",
-   "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
-   "image": "https://images-assets.nasa.gov/image/KSC-20261022-PH-SNC01_0001/KSC-20261022-PH-SNC01_0001~large.jpg",
-   "site": "NASA",
-   "summary": "La etapa central del SLS (Sistema de Lanzamiento Espacial) de la misión Artemis III de la NASA se integró junto a los dos propulsores de cohete de combustible sólido el 28 de octubre en la nave industrial High Bay 3 del Edificio de Ensamblaje de Vehículos, en el Centro Espacial Kennedy de la NASA, en Florida.   Los técnicos elevaron la etapa del cohete, de 212 pies, desde la nave industrial 2 de las instalaciones utilizando una viga de elevación única en su género diseñada […]",
-   "publishedAt": "2026-10-28T18:59:44Z",
    "eu": false
   }
  ]
