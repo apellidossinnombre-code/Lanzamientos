@@ -1,6 +1,16 @@
 {
- "updatedAt": 1793762066816,
+ "updatedAt": 1793790596590,
  "news": [
+  {
+   "id": 40701,
+   "title": "PLD Space completa la prueba del sistema de interrupción de vuelo del MIURA 5",
+   "url": "https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/PLD-Space-Completes-MIURA-5-Flight-Termination-System-Test.webp",
+   "site": "European Spaceflight",
+   "summary": "El proveedor español de servicios de lanzamiento PLD Space ha completado una prueba explosiva del sistema de interrupción de vuelo de su cohete MIURA 5, antes del vuelo inaugural del vehículo, que ahora está previsto para el primer semestre de 2027. El 30 de octubre, PLD Space anunció que había completado con éxito la prueba para validar el rendimiento de su […]\nLa entrada «PLD Space completa la prueba del sistema de interrupción de vuelo del MIURA 5» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-11-04T10:04:11Z",
+   "eu": true
+  },
   {
    "id": 40694,
    "title": "Una startup suiza planea construir un módulo de aterrizaje lunar propulsado por un motor de detonación rotativa",
