@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794011923648,
+ "updatedAt": 1794033246387,
  "launches": [
   {
    "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -122,8 +122,8 @@
     "reusable": true,
     "leo": 22800,
     "stages": "2",
-    "total": 644,
-    "ok": 643,
+    "total": 645,
+    "ok": 644,
     "fail": 1
    },
    "lat": 34.632,
@@ -357,8 +357,8 @@
     "reusable": true,
     "leo": 22800,
     "stages": "2",
-    "total": 644,
-    "ok": 643,
+    "total": 645,
+    "ok": 644,
     "fail": 1
    },
    "lat": 34.632,
@@ -413,8 +413,8 @@
     "reusable": true,
     "leo": 22800,
     "stages": "2",
-    "total": 644,
-    "ok": 643,
+    "total": 645,
+    "ok": 644,
     "fail": 1
    },
    "lat": 34.632,
@@ -469,8 +469,8 @@
     "reusable": true,
     "leo": 22800,
     "stages": "2",
-    "total": 644,
-    "ok": 643,
+    "total": 645,
+    "ok": 644,
     "fail": 1
    },
    "lat": 34.632,
@@ -525,8 +525,8 @@
     "reusable": true,
     "leo": 22800,
     "stages": "2",
-    "total": 644,
-    "ok": 643,
+    "total": 645,
+    "ok": 644,
     "fail": 1
    },
    "lat": 34.632,
@@ -581,8 +581,8 @@
     "reusable": true,
     "leo": 22800,
     "stages": "2",
-    "total": 644,
-    "ok": 643,
+    "total": 645,
+    "ok": 644,
     "fail": 1
    },
    "lat": 34.632,
@@ -637,8 +637,8 @@
     "reusable": true,
     "leo": 22800,
     "stages": "2",
-    "total": 644,
-    "ok": 643,
+    "total": 645,
+    "ok": 644,
     "fail": 1
    },
    "lat": 34.632,
@@ -693,8 +693,8 @@
     "reusable": true,
     "leo": 22800,
     "stages": "2",
-    "total": 644,
-    "ok": 643,
+    "total": 645,
+    "ok": 644,
     "fail": 1
    },
    "lat": 34.632,
@@ -749,8 +749,8 @@
     "reusable": true,
     "leo": 22800,
     "stages": "2",
-    "total": 644,
-    "ok": 643,
+    "total": 645,
+    "ok": 644,
     "fail": 1
    },
    "lat": 34.632,
@@ -805,8 +805,8 @@
     "reusable": true,
     "leo": 22800,
     "stages": "2",
-    "total": 644,
-    "ok": 643,
+    "total": 645,
+    "ok": 644,
     "fail": 1
    },
    "lat": 34.632,
@@ -861,8 +861,8 @@
     "reusable": true,
     "leo": 22800,
     "stages": "2",
-    "total": 644,
-    "ok": 643,
+    "total": 645,
+    "ok": 644,
     "fail": 1
    },
    "lat": 34.632,
@@ -917,8 +917,8 @@
     "reusable": true,
     "leo": 22800,
     "stages": "2",
-    "total": 644,
-    "ok": 643,
+    "total": 645,
+    "ok": 644,
     "fail": 1
    },
    "lat": 34.632,
@@ -973,8 +973,8 @@
     "reusable": true,
     "leo": 22800,
     "stages": "2",
-    "total": 644,
-    "ok": 643,
+    "total": 645,
+    "ok": 644,
     "fail": 1
    },
    "lat": 34.632,
@@ -1188,6 +1188,47 @@
    "payEU": false,
    "euReason": [
     "lanzador: operador Avio S.p.A"
+   ]
+  },
+  {
+   "id": "ed2bf159-ee2d-4b60-bb8e-e964c005c8d9",
+   "name": "Zéphyr | Maiden Flight",
+   "date": "2026-12-31T00:00:00Z",
+   "status": "TBD",
+   "vehicle": "Zéphyr",
+   "provider": "Latitude",
+   "providerCountry": "FRA",
+   "payload": "Maiden Flight",
+   "missionType": "Test Flight",
+   "orbit": "Low Earth Orbit",
+   "description": "Vuelo inaugural del pequeño vehículo de lanzamiento Zéphyr.",
+   "pad": "Launch Complex 3",
+   "location": "Etlaq Spaceport",
+   "webcastLive": false,
+   "boosters": [],
+   "windowEnd": "2026-12-31T00:00:00Z",
+   "timeline": [],
+   "rocket": {
+    "family": "",
+    "length": 19,
+    "diameter": 1.5,
+    "reusable": false,
+    "leo": 100,
+    "stages": "2",
+    "total": 0,
+    "ok": 0,
+    "fail": 0
+   },
+   "lat": 18.7862,
+   "lon": 56.822,
+   "webcasts": [],
+   "links": [],
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/z25c325a9phyr_image_20251116181217.jpg",
+   "vehEU": true,
+   "payEU": true,
+   "euReason": [
+    "lanzador: operador Latitude",
+    "carga: Latitude"
    ]
   }
  ]
