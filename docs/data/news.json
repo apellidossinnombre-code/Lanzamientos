@@ -1,6 +1,26 @@
 {
- "updatedAt": 1794213841305,
+ "updatedAt": 1794251400899,
  "news": [
+  {
+   "id": 40788,
+   "title": "Concurso de la NASA sobre cohetes eléctricos avanzados de potencia media",
+   "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2024/05/image-1ee21e.jpeg",
+   "site": "NASA",
+   "summary": "Las partes interesadas del sector público y privado han identificado los sistemas de propulsión de efecto Hall de potencia media (3-7 kW) como capacidades fundamentales para misiones satelitales, de defensa y de exploración. Dada la necesidad de contar con esta capacidad, la NASA pone en marcha el desafío «Advanced Mid-Power Electric Rocket» (AMPERE). El Desafío AMPERE de la NASA invita a las empresas comerciales estadounidenses a desarrollar y demostrar propulsores de efecto Hall de potencia media […]",
+   "publishedAt": "2026-11-09T17:42:42Z",
+   "eu": false
+  },
+  {
+   "id": 40780,
+   "title": "La tripulación de la misión CHAPEA 2 reflexiona tras 378 días en una simulación de Marte",
+   "url": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424286.jpg",
+   "site": "NASA",
+   "summary": "Tras 378 días sin ventanas, sin los sonidos del mundo exterior ni llamadas en tiempo real con familiares y amigos, cuatro voluntarios de la investigación salieron del hábitat «Mars Dune Alpha» de la NASA el 31 de octubre, completando así la segunda simulación de un año de duración de la superficie marciana llevada a cabo por la agencia.  Ross Elder, Ellen Ellis, James Spicer y Matthew Montgomery entraron en el hábitat de aproximadamente 1.700 pies cuadrados, impreso en 3D, en […]",
+   "publishedAt": "2026-11-09T11:00:00Z",
+   "eu": true
+  },
   {
    "id": 40779,
    "title": "La RFA confirma que el lanzamiento inaugural del RFA ONE se ha pospuesto hasta 2027",
@@ -37,7 +57,7 @@
    "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-F9-File-Feature-Image.jpg",
    "site": "Spaceflight Now",
-   "summary": "El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto para las 16:48 h PST (19:48 h EST / 00:48 UTC). Se cree que la misión transporta satélites basados en la plataforma Starshield de SpaceX. ",
+   "summary": "El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto para las 16:48 h PST (19:48 h EST / 00:48 UTC). Se cree que la misión transporta satélites basados en la plataforma Starshield de SpaceX.",
    "publishedAt": "2026-11-06T22:00:39Z",
    "eu": false
   },
@@ -97,7 +117,7 @@
    "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
    "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/GS3.png",
    "site": "Spaceflight Now",
-   "summary": "El anuncio se hizo durante un acto al que solo se podía asistir con invitación, celebrado antes del espectáculo aéreo «Max Power», patrocinado por la NASA, que tendrá lugar este fin de semana en el Centro Espacial Kennedy. ",
+   "summary": "El anuncio se hizo durante un acto al que solo se podía asistir con invitación, celebrado antes del espectáculo aéreo «Max Power», patrocinado por la NASA, que tendrá lugar este fin de semana en el Centro Espacial Kennedy.",
    "publishedAt": "2026-11-05T22:34:58Z",
    "eu": false
   },
@@ -119,26 +139,6 @@
    "site": "SpaceNews",
    "summary": "\nEn este episodio, Mike Gruss, de SpaceNews, habla con Winnie Lai, directora ejecutiva de Auriga Space. Hablan de cómo la tecnología de lanzamiento electromagnético que «catapulta» pequeños vehículos de lanzamiento podría reducir […]\nLa entrada «Construyendo una “autopista hacia la Luna y de vuelta” con Winnie Lai» se publicó por primera vez en SpaceNews.",
    "publishedAt": "2026-11-05T14:15:38Z",
-   "eu": false
-  },
-  {
-   "id": 40711,
-   "title": "La NASA da a conocer sus planes para acelerar el programa Artemis y el regreso a la Luna",
-   "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
-   "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
-   "site": "NASA",
-   "summary": "En una actualización del 23 de octubre, el administrador de la NASA, Jared Isaacman, y otros responsables de la agencia expusieron el plan de la agencia para llevar de nuevo a los estadounidenses a la superficie lunar en 2028. Los responsables de la agencia ofrecieron información actualizada sobre los planes de aceleración anunciados previamente para el programa Artemis, avanzando hacia el vuelo de prueba Artemis III de la agencia en 2027 y la misión Artemis IV a la Luna […]",
-   "publishedAt": "2026-11-04T20:17:07Z",
-   "eu": true
-  },
-  {
-   "id": 40709,
-   "title": "La NASA anuncia la adjudicación de contratos para sistemas de retransmisión por satélite en banda Ka destinados a las comunicaciones espaciales",
-   "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-   "site": "NASA",
-   "summary": "La NASA seleccionó el miércoles a tres empresas para que lleven a cabo trabajos destinados a desarrollar conceptos de capacidad de retransmisión espacial en banda Ka que sean compatibles con las misiones espaciales actuales, garantizando así la continuidad del servicio de las naves espaciales existentes sin necesidad de modificar sus sistemas de a bordo. A través de este trabajo, la NASA pretende adquirir soluciones integrales que incluyan los ámbitos espacial, terrestre, de lanzamiento, de operaciones e integración […]",
-   "publishedAt": "2026-11-04T18:00:02Z",
    "eu": false
   }
  ]
