@@ -1,13 +1,33 @@
 {
- "updatedAt": 1794303211168,
+ "updatedAt": 1794330879019,
  "news": [
+  {
+   "id": 40803,
+   "title": "El DLR adquirirá 80 motores para cohetes de sondeo «Red Kite»",
+   "url": "https://europeanspaceflight.com/dlr-to-purchase-80-red-kite-sounding-rocket-motors/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/DLR-to-Purchase-80-Red-Kite-Sounding-Rocket-Motors.webp",
+   "site": "European Spaceflight",
+   "summary": "El Centro Aeroespacial Alemán (DLR) se está preparando para adquirir 80 motores cohete de combustible sólido «Red Kite» de la empresa alemana de defensa Bayern-Chemie con el fin de respaldar futuras misiones con cohetes de sondeo. Según un anuncio de licitación publicado el 2 de noviembre, el DLR tiene previsto adquirir 80 motores cohete de combustible sólido no sujetos a la normativa ITAR para el equipo de la Base Móvil de Cohetes (MORABA) de la agencia, que lleva a cabo misiones de cohetes sonda […]\nLa entrada «El DLR adquirirá 80 motores de cohetes de sondeo Red Kite» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-11-10T15:44:40Z",
+   "eu": true
+  },
+  {
+   "id": 40801,
+   "title": "Kratos y Seagate Space se asocian para mejorar las capacidades de lanzamiento marítimo móvil en misiones de seguridad nacional",
+   "url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/",
+   "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/seagate-space-kratos-logo-square.png?fit=976%2C978&ssl=1",
+   "site": "SpaceNews",
+   "summary": "\nSAN DIEGO, California, 10 de noviembre de 2026 – Kratos Defense & Security Solutions, Inc., una empresa tecnológica dedicada a la defensa, la seguridad nacional y los mercados globales, ha anunciado hoy un acuerdo a largo plazo con Seagate […]\nLa noticia «Kratos y Seagate Space se alían para impulsar las capacidades de lanzamiento móvil en alta mar para misiones de seguridad nacional» se publicó por primera vez en SpaceNews.",
+   "publishedAt": "2026-11-10T14:00:00Z",
+   "eu": false
+  },
   {
    "id": 40800,
    "title": "La ESCAPADE se dirige a Marte tras realizar varias maniobras de aproximación a la Tierra",
    "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/",
    "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/escapade_twins_Mars.jpg?fit=1024%2C482&ssl=1",
    "site": "SpaceNews",
-   "summary": "\nDos pequeños satélites de la NASA se dirigen hacia Marte tras completar sus sobrevuelos de la Tierra casi un año después de su lanzamiento.\nLa noticia «ESCAPADE se dirige hacia Marte tras sus sobrevuelos de la Tierra» se publicó por primera vez en SpaceNews.",
+   "summary": "Dos pequeños satélites de la NASA se dirigen hacia Marte tras completar sus sobrevuelos de la Tierra casi un año después de su lanzamiento.\nLa noticia «ESCAPADE se dirige hacia Marte tras sus sobrevuelos de la Tierra» se publicó por primera vez en SpaceNews.",
    "publishedAt": "2026-11-10T08:01:39Z",
    "eu": false
   },
@@ -17,7 +37,7 @@
    "url": "https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/",
    "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Isar-Could-Launch-Third-Spectrum-Rocket-as-Early-as-26-November.webp",
    "site": "European Spaceflight",
-   "summary": "La empresa alemana de lanzamientos Isar Aerospace podría intentar el tercer vuelo de su cohete Spectrum desde el puerto espacial de Andøya, en Noruega, ya el 26 de noviembre, según un aviso de aviación publicado el 28 de octubre. El aviso, publicado por el proveedor noruego de servicios de navegación aérea Avinor, establece una ventana de lanzamiento para el vuelo que se abre el 26 de noviembre de 2026 […]\nLa entrada «Isar Aerospace podría lanzar su tercer cohete Spectrum ya el 26 de noviembre» apareció primero en European Spaceflight.",
+   "summary": "La empresa alemana de lanzamientos espaciales Isar Aerospace podría intentar el tercer vuelo de su cohete Spectrum desde el puerto espacial de Andøya, en Noruega, ya el 26 de noviembre, según un aviso de aviación publicado el 28 de octubre. El aviso, publicado por el proveedor noruego de servicios de navegación aérea Avinor, establece una ventana de lanzamiento para el vuelo que se abre el 26 de noviembre de 2026 […]\nLa entrada «Isar Aerospace podría lanzar su tercer cohete Spectrum ya el 26 de noviembre» apareció primero en European Spaceflight.",
    "publishedAt": "2026-11-10T07:04:22Z",
    "eu": true
   },
@@ -149,16 +169,6 @@
    "site": "Spaceflight Now",
    "summary": "El anuncio se hizo durante un acto al que solo se podía asistir con invitación, celebrado antes del espectáculo aéreo «Max Power», patrocinado por la NASA, que tendrá lugar este fin de semana en el Centro Espacial Kennedy.",
    "publishedAt": "2026-11-05T22:34:58Z",
-   "eu": false
-  },
-  {
-   "id": 40752,
-   "title": "Blue Origin presenta la tercera etapa del New Glenn GS3 y el motor propulsor Northstar",
-   "url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-05-18-57-11-406.jpg",
-   "site": "NASASpaceflight",
-   "summary": "El director ejecutivo de Blue Origin, Dave Limp, ha presentado una tercera etapa para el New Glenn y…\nLa entrada «Blue Origin presenta la tercera etapa GS3 del New Glenn y el motor propulsor Northstar» se publicó por primera vez en NASASpaceFlight.com.",
-   "publishedAt": "2026-11-05T20:51:14Z",
    "eu": false
   }
  ]
