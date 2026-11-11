@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794388664419,
+ "updatedAt": 1794417329257,
  "news": [
   {
    "id": 40808,
@@ -160,16 +160,6 @@
    "summary": "El propulsor 22 y la nave 42 se encuentran en la fase final de comprobaciones de cara a un lanzamiento que no tendrá lugar antes del 13 de noviembre…\nLa entrada «El vuelo 15 de Starship, un intento de captura doble, espera la luz verde de la FAA» apareció primero en NASASpaceFlight.com.",
    "publishedAt": "2026-11-06T15:31:51Z",
    "eu": false
-  },
-  {
-   "id": 40761,
-   "title": "Avio reduce su programa de demostración ante las dificultades técnicas",
-   "url": "https://europeanspaceflight.com/avio-scales-back-demonstrator-programme-amid-technical-challenges/",
-   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Avio-Scales-Back-Demonstrator-Programme-Amid-Technical-Challenges.webp",
-   "site": "European Spaceflight",
-   "summary": "El fabricante italiano de cohetes Avio ha reducido sus planes de desarrollar dos prototipos de cohetes de combustible líquido destinados a validar tecnologías para un futuro vehículo de lanzamiento reutilizable. En su informe financiero semestral publicado el 10 de septiembre, Avio reveló que había acordado revisar el alcance y la financiación de su programa Space Transportation System (STS), cuyo objetivo original era […]\nLa entrada «Avio reduce su programa de prototipos ante los retos técnicos» apareció primero en European Spaceflight.",
-   "publishedAt": "2026-11-06T07:39:17Z",
-   "eu": true
   }
  ]
 }
