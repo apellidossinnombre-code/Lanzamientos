@@ -1,6 +1,16 @@
 {
- "updatedAt": 1794456116563,
+ "updatedAt": 1794486501979,
  "news": [
+  {
+   "id": 40819,
+   "title": "La ESA explica el retraso en la firma del contrato del concurso «MaiaSpace Launcher Challenge»",
+   "url": "https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/",
+   "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-Explains-Delay-in-Signing-MaiaSpace-Launcher-Challenge-Contract.webp",
+   "site": "European Spaceflight",
+   "summary": "La Agencia Espacial Europea (ESA) ha revelado que la decisión de MaiaSpace de optar por un modelo de financiación diferente al de sus competidores ha complicado las negociaciones sobre su contrato del «European Launcher Challenge». En una rueda de prensa de la ESA celebrada el 22 de octubre, la directora de Transporte Espacial de la ESA, Géraldine Naja, explicó que MaiaSpace era la única de las cuatro empresas […]\nLa entrada «La ESA explica el retraso en la firma del contrato del “Launcher Challenge” con MaiaSpace» apareció primero en European Spaceflight.",
+   "publishedAt": "2026-11-12T10:36:32Z",
+   "eu": true
+  },
   {
    "id": 40808,
    "title": "Isaacman traza la hoja de ruta del SLS de cara a la década de 2030",
@@ -119,36 +129,6 @@
    "site": "Spaceflight Now",
    "summary": "La empresa responsable de la constelación de satélites Bluebird, que transmite directamente a los móviles, ha afirmado que la incorporación de su propio cohete de gran capacidad es la pieza final de sus planes de integración vertical. ",
    "publishedAt": "2026-11-07T02:18:04Z",
-   "eu": false
-  },
-  {
-   "id": 40767,
-   "title": "El Falcon 9 despegará desde California en una misión secreta para la Fuerza Espacial de EE. UU.",
-   "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
-   "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-F9-File-Feature-Image.jpg",
-   "site": "Spaceflight Now",
-   "summary": "El despegue desde la plataforma 4E de la Base de la Fuerza Espacial de Vandenberg está previsto para las 16:48 h PST (19:48 h EST / 00:48 UTC). Se cree que la misión transporta satélites basados en la plataforma Starshield de SpaceX.",
-   "publishedAt": "2026-11-06T22:00:39Z",
-   "eu": false
-  },
-  {
-   "id": 40766,
-   "title": "Stoke Space está estudiando la ampliación de sus instalaciones de Cape para construir una segunda plataforma de lanzamiento Nova",
-   "url": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/",
-   "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-20-58-09-237.jpg",
-   "site": "NASASpaceflight",
-   "summary": "Space Launch Delta 45 ha concedido a Stoke Space el derecho de acceso a la propiedad…\nLa noticia «Stoke Space evalúa la ampliación de sus instalaciones en Cabo Cañaveral para una segunda plataforma de lanzamiento Nova» se publicó por primera vez en NASASpaceFlight.com.",
-   "publishedAt": "2026-11-06T21:19:28Z",
-   "eu": false
-  },
-  {
-   "id": 40765,
-   "title": "AST SpaceMobile está tan ansiosa por realizar un lanzamiento que está construyendo su propio cohete",
-   "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason.jpg",
-   "site": "Arstechnica",
-   "summary": "«El cohete Blacklift es el trampolín que nos permitirá ampliar considerablemente nuestro mercado potencial total».",
-   "publishedAt": "2026-11-06T18:20:47Z",
    "eu": false
   }
  ]
