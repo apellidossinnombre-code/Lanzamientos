@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795068393094,
+ "updatedAt": 1795102764752,
  "news": [
   {
    "id": 40904,
@@ -189,26 +189,6 @@
    "site": "Arstechnica",
    "summary": "Todas las estimaciones sobre los vuelos espaciales tripulados a bordo de la Starship deben tomarse con muchísima cautela.",
    "publishedAt": "2026-11-16T19:46:08Z",
-   "eu": false
-  },
-  {
-   "id": 40861,
-   "title": "El Sentinel-6B en órbita alrededor de la Tierra",
-   "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26803/PIA26803.jpg",
-   "site": "NASA",
-   "summary": "Descripción: Esta imagen conceptual muestra el satélite Sentinel-6B, que se convertirá en el satélite de referencia para otras misiones dedicadas al estudio de la altura de la superficie del mar.",
-   "publishedAt": "2026-11-16T18:52:32Z",
-   "eu": true
-  },
-  {
-   "id": 40857,
-   "title": "De contratista a funcionario: la NASA da la bienvenida a Jim Mirandy",
-   "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/s26-013-jim-mirandy.jpg",
-   "site": "NASA",
-   "summary": "El rugido de un motor de cohete podría considerarse la banda sonora de la vida de Jim Mirandy. Mirandy ha crecido con la NASA como una presencia constante, y su trayectoria hasta convertirse en funcionario del Centro Espacial Stennis de la NASA, cerca de Bay St. Louis (Misisipi), ha sido fruto de décadas de esfuerzo. Contratado en virtud de la directiva de personal de la agencia […]",
-   "publishedAt": "2026-11-16T15:22:09Z",
    "eu": false
   }
  ]
