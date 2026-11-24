@@ -1,105 +1,6 @@
 {
- "updatedAt": 1795501018580,
+ "updatedAt": 1795542921299,
  "launches": [
-  {
-   "id": "7bdc412b-c965-4517-a131-f57a01189803",
-   "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-   "date": "2026-11-24T10:45:00Z",
-   "status": "Go",
-   "vehicle": "Ariane 64 Block 2",
-   "provider": "Arianespace",
-   "providerCountry": "FRA",
-   "payload": "Amazon Leo (LE-04)",
-   "missionType": "Communications",
-   "orbit": "Low Earth Orbit",
-   "description": "Amazon Leo, anteriormente conocido como Proyecto Kuiper, es una megaconstelación de satélites en órbita terrestre baja que ofrecerá acceso a Internet de banda ancha; esta constelación estará gestionada por Kuiper Systems LLC, una filial de Amazon. Está previsto que esta constelación esté compuesta por 3.276 satélites. Se prevé que los satélites se coloquen en 98 planos orbitales distribuidos en tres capas orbitales, a altitudes de 590 km, 610 km y 630 km.\n\nCada lanzamiento del Ariane 6 transportará entre 35 y 40 satélites.",
-   "pad": "Ariane Launch Area 4",
-   "location": "Guiana Space Centre, French Guiana",
-   "webcastLive": false,
-   "boosters": [],
-   "windowEnd": "2026-11-24T11:14:00Z",
-   "timeline": [
-    {
-     "t": "-PT7S",
-     "d": "Inicio de la secuencia de encendido del motor"
-    },
-    {
-     "t": "P0D",
-     "d": "Primer movimiento ascendente del cohete"
-    },
-    {
-     "t": "PT2M23S",
-     "d": "Los propulsores laterales se separan del lanzador."
-    },
-    {
-     "t": "PT3M12S",
-     "d": "Separación de la carena de carga útil"
-    },
-    {
-     "t": "PT7M51S",
-     "d": "Separación de la segunda etapa de la primera"
-    },
-    {
-     "t": "PT7M59S",
-     "d": "Primer arranque del segundo motor"
-    },
-    {
-     "t": "PT1H6M",
-     "d": "Segundo arranque del segundo motor"
-    },
-    {
-     "t": "PT1H39M",
-     "d": "Inicio de la secuencia de despliegue de la carga útil"
-    },
-    {
-     "t": "PT2H4M",
-     "d": "Fin de la secuencia de despliegue de la carga útil."
-    },
-    {
-     "t": "PT2H46M",
-     "d": "Tercer arranque del segundo motor"
-    }
-   ],
-   "rocket": {
-    "family": "Ariane",
-    "length": 63,
-    "diameter": 5.4,
-    "reusable": false,
-    "leo": 21900,
-    "stages": "2",
-    "total": 1,
-    "ok": 1,
-    "fail": 0
-   },
-   "lat": 5.256319,
-   "lon": -52.786838,
-   "webcasts": [
-    {
-     "url": "https://www.youtube.com/watch?v=k2adMyxSoJE",
-     "title": "Postponed | Flight VA271 | Amazon Leo LE-04 | Ariane 6 | Arianespace"
-    },
-    {
-     "url": "https://www.youtube.com/watch?v=w9Wokj3rBH4",
-     "title": "Reporté | Vol VA271 | Amazon Leo LE-04 | Ariane 6 | Arianespace"
-    },
-    {
-     "url": "https://www.youtube.com/watch?v=F4xjWb4OEs4",
-     "title": "Lancement Ariane 6 pour la constellation Amazon LEO (VA271)"
-    }
-   ],
-   "links": [
-    {
-     "url": "https://www.arianespace.com/folders/flight-va271-amazon-leo-le-04/",
-     "title": "Flight VA271 - Amazon Leo LE-04"
-    }
-   ],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260618063419.jpg",
-   "vehEU": true,
-   "payEU": false,
-   "euReason": [
-    "lanzador: operador Arianespace"
-   ]
-  },
   {
    "id": "22e117bf-041c-49d5-9d09-7b180036e143",
    "name": "Ariane 62 | Metop-SG B1",
@@ -182,7 +83,7 @@
     "reusable": true,
     "leo": 22800,
     "stages": "2",
-    "total": 648,
+    "total": 649,
     "ok": 647,
     "fail": 1
    },
@@ -417,678 +318,6 @@
    ]
   },
   {
-   "id": "dfd444f9-ddda-4b35-8f51-cda7cd801809",
-   "name": "Falcon 9 Block 5 | Rivada 1",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 1",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ]
-  },
-  {
-   "id": "511a3ef8-799e-4723-9293-b954d9d2eb83",
-   "name": "Falcon 9 Block 5 | Rivada 10",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 10",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ]
-  },
-  {
-   "id": "d08d8b46-353b-4eee-ab5e-e1385b329008",
-   "name": "Falcon 9 Block 5 | Rivada 11",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 11",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ]
-  },
-  {
-   "id": "bf5c6fa2-3add-49ff-aad6-c6450148cd89",
-   "name": "Falcon 9 Block 5 | Rivada 12",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 12",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ]
-  },
-  {
-   "id": "20fa8dc4-8cab-41cf-b452-98a2620f7e86",
-   "name": "Falcon 9 Block 5 | Rivada 2",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 2",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ]
-  },
-  {
-   "id": "ab932c60-d808-4825-ab71-b6fe0a745f15",
-   "name": "Falcon 9 Block 5 | Rivada 3",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 3",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ]
-  },
-  {
-   "id": "2f31a7f0-968a-448d-b447-333bf0341078",
-   "name": "Falcon 9 Block 5 | Rivada 4",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 4",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ]
-  },
-  {
-   "id": "fa895702-687b-4ba3-95fb-9462a2c9844b",
-   "name": "Falcon 9 Block 5 | Rivada 5",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 5",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ]
-  },
-  {
-   "id": "46d6822b-82aa-452c-aa34-80b6f052de84",
-   "name": "Falcon 9 Block 5 | Rivada 6",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 6",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ]
-  },
-  {
-   "id": "1fa3741c-3339-4954-a026-2cd9d36161c0",
-   "name": "Falcon 9 Block 5 | Rivada 7",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 7",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ]
-  },
-  {
-   "id": "7d77bd89-af23-4a5a-b632-de0034003a64",
-   "name": "Falcon 9 Block 5 | Rivada 8",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 8",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ]
-  },
-  {
-   "id": "5ce7e9b6-b471-4a88-891f-2a6f21cb369f",
-   "name": "Falcon 9 Block 5 | Rivada 9",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Falcon 9 Block 5",
-   "provider": "SpaceX",
-   "providerCountry": "USA",
-   "payload": "Rivada 9",
-   "missionType": "Communications",
-   "orbit": "Polar Orbit",
-   "description": "24 satélites para la constelación de Internet de Rivada.",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA",
-   "webcastLive": false,
-   "boosters": [
-    {
-     "serial": "Unknown F9",
-     "type": "Core",
-     "reused": null,
-     "flight": null,
-     "flights": null,
-     "landOk": null,
-     "landTry": null,
-     "first": null,
-     "last": null,
-     "status": "N/A",
-     "turn": null,
-     "target": "Of Course I Still Love You",
-     "targetType": "ASDS"
-    }
-   ],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Falcon",
-    "length": 70,
-    "diameter": 3.65,
-    "reusable": true,
-    "leo": 22800,
-    "stages": "2",
-    "total": 648,
-    "ok": 647,
-    "fail": 1
-   },
-   "lat": 34.632,
-   "lon": -120.611,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Rivada Space Networks"
-   ]
-  },
-  {
    "id": "b565ab64-1642-4cef-a13f-f3dad53518e7",
    "name": "Spectrum | Cassini",
    "date": "2026-12-31T00:00:00Z",
@@ -1130,46 +359,6 @@
    ]
   },
   {
-   "id": "2e37a196-f5f8-4496-96ae-63f4b6b27912",
-   "name": "Terran R | Intelsat-1",
-   "date": "2026-12-31T00:00:00Z",
-   "status": "TBD",
-   "vehicle": "Terran R",
-   "provider": "Relativity Space",
-   "providerCountry": "USA",
-   "payload": "Intelsat-1",
-   "missionType": "Communications",
-   "orbit": "Unknown",
-   "description": "Esta es la primera misión que forma parte de un acuerdo plurianual y de múltiples lanzamientos firmado entre Intelsat y Relativity Space en 2023.",
-   "pad": "Launch Complex 16",
-   "location": "Cape Canaveral SFS, FL, USA",
-   "webcastLive": false,
-   "boosters": [],
-   "windowEnd": "2026-12-31T00:00:00Z",
-   "timeline": [],
-   "rocket": {
-    "family": "Terran",
-    "length": 66,
-    "diameter": 5.5,
-    "reusable": true,
-    "leo": 20000,
-    "stages": "2",
-    "total": 0,
-    "ok": 0,
-    "fail": 0
-   },
-   "lat": 28.501626,
-   "lon": -80.5518,
-   "webcasts": [],
-   "links": [],
-   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/terran_r_image_20220912002151.png",
-   "vehEU": false,
-   "payEU": true,
-   "euReason": [
-    "carga: Intelsat"
-   ]
-  },
-  {
    "id": "ed2bf159-ee2d-4b60-bb8e-e964c005c8d9",
    "name": "Zéphyr | Maiden Flight",
    "date": "2026-12-31T00:00:00Z",
@@ -1208,6 +397,129 @@
    "euReason": [
     "lanzador: operador Latitude",
     "carga: Latitude"
+   ]
+  },
+  {
+   "id": "0b85fcca-5252-48d7-9ccb-c10b1da9d183",
+   "name": "Ariane 62 | Galileo L15 (FOC FM28 & FM31)",
+   "date": "2027-02-28T00:00:00Z",
+   "status": "TBD",
+   "vehicle": "Ariane 62",
+   "provider": "Arianespace",
+   "providerCountry": "FRA",
+   "payload": "Galileo L15 (FOC FM28 & FM31)",
+   "missionType": "Navigation",
+   "orbit": "Medium Earth Orbit",
+   "description": "La carga útil está compuesta por dos satélites del sistema de navegación europeo Galileo.",
+   "pad": "Ariane Launch Area 4",
+   "location": "Guiana Space Centre, French Guiana",
+   "webcastLive": false,
+   "boosters": [],
+   "windowEnd": "2027-02-28T00:00:00Z",
+   "timeline": [],
+   "rocket": {
+    "family": "Ariane",
+    "length": 63,
+    "diameter": 5.4,
+    "reusable": false,
+    "leo": 10900,
+    "stages": "2",
+    "total": 6,
+    "ok": 6,
+    "fail": 0
+   },
+   "lat": 5.256319,
+   "lon": -52.786838,
+   "webcasts": [],
+   "links": [],
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
+   "vehEU": true,
+   "payEU": true,
+   "euReason": [
+    "lanzador: operador Arianespace",
+    "carga: European Space Agency"
+   ]
+  },
+  {
+   "id": "526b4a0f-f0c9-4a20-9066-e9fc8c79307b",
+   "name": "Ariane 62 Block 2 | PLATO",
+   "date": "2027-03-31T00:00:00Z",
+   "status": "TBD",
+   "vehicle": "Ariane 62 Block 2",
+   "provider": "Arianespace",
+   "providerCountry": "FRA",
+   "payload": "PLATO",
+   "missionType": "Astrophysics",
+   "orbit": "Sun-Earth L2",
+   "description": "Plato, acrónimo de «PLAnetary Transits and Oscillations of stars» (Tránsitos planetarios y oscilaciones estelares), es una misión de la Agencia Espacial Europea (ESA) que cuenta con 26 cámaras para estudiar exoplanetas terrestres en órbitas que llegan hasta la zona habitable de estrellas similares al Sol. Su objetivo es medir el tamaño de los exoplanetas y descubrir exolunas y anillos a su alrededor, así como caracterizar las estrellas anfitrionas de los planetas mediante el estudio de las minúsculas variaciones en la luz estelar que recibe.",
+   "pad": "Ariane Launch Area 4",
+   "location": "Guiana Space Centre, French Guiana",
+   "webcastLive": false,
+   "boosters": [],
+   "windowEnd": "2027-03-31T00:00:00Z",
+   "timeline": [],
+   "rocket": {
+    "family": "Ariane",
+    "length": null,
+    "diameter": null,
+    "reusable": false,
+    "leo": null,
+    "stages": null,
+    "total": 0,
+    "ok": 0,
+    "fail": 0
+   },
+   "lat": 5.256319,
+   "lon": -52.786838,
+   "webcasts": [],
+   "links": [],
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
+   "vehEU": true,
+   "payEU": true,
+   "euReason": [
+    "lanzador: operador Arianespace",
+    "carga: European Space Agency"
+   ]
+  },
+  {
+   "id": "c73425e7-d668-4b80-b123-39cff09b31d7",
+   "name": "Ariane 62 | Galileo L16 (FOC FM29 & FM30)",
+   "date": "2027-03-31T00:00:00Z",
+   "status": "TBD",
+   "vehicle": "Ariane 62",
+   "provider": "Arianespace",
+   "providerCountry": "FRA",
+   "payload": "Galileo L16 (FOC FM29 & FM30)",
+   "missionType": "Navigation",
+   "orbit": "Medium Earth Orbit",
+   "description": "La carga útil está compuesta por dos satélites del sistema de navegación europeo Galileo.",
+   "pad": "Ariane Launch Area 4",
+   "location": "Guiana Space Centre, French Guiana",
+   "webcastLive": false,
+   "boosters": [],
+   "windowEnd": "2027-03-31T00:00:00Z",
+   "timeline": [],
+   "rocket": {
+    "family": "Ariane",
+    "length": 63,
+    "diameter": 5.4,
+    "reusable": false,
+    "leo": 10900,
+    "stages": "2",
+    "total": 6,
+    "ok": 6,
+    "fail": 0
+   },
+   "lat": 5.256319,
+   "lon": -52.786838,
+   "webcasts": [],
+   "links": [],
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
+   "vehEU": true,
+   "payEU": true,
+   "euReason": [
+    "lanzador: operador Arianespace",
+    "carga: European Space Agency"
    ]
   }
  ]
