@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795542921299,
+ "updatedAt": 1795571800382,
  "launches": [
   {
    "id": "22e117bf-041c-49d5-9d09-7b180036e143",
@@ -84,7 +84,7 @@
     "leo": 22800,
     "stages": "2",
     "total": 649,
-    "ok": 647,
+    "ok": 648,
     "fail": 1
    },
    "lat": 34.632,
@@ -520,6 +520,47 @@
    "euReason": [
     "lanzador: operador Arianespace",
     "carga: European Space Agency"
+   ]
+  },
+  {
+   "id": "91f5f940-da5a-44de-a10a-b44c59066285",
+   "name": "Vega-C | KOMPSAT-6 & PLATiNO 1",
+   "date": "2027-04-30T00:00:00Z",
+   "status": "TBD",
+   "vehicle": "Vega-C",
+   "provider": "Avio S.p.A",
+   "providerCountry": "ITA",
+   "payload": "KOMPSAT-6 & PLATiNO 1",
+   "missionType": "Earth Science",
+   "orbit": "Sun-Synchronous Orbit",
+   "description": "El satélite polivalente coreano n.º 6 (KOMPSAT-6) es el sexto satélite de observación de la Tierra de Corea del Sur de la serie KOMPSAT. Está equipado con un radar de apertura sintética con una resolución en superficie de entre 0,5 y 20 metros.\r\n\r\nPLATiNO 1 es un proyecto experimental de satélite de observación de la Tierra con radar de apertura sintética (SAR) en banda X de la Agencia Espacial Italiana (ASI), con una carga útil de radar de Thales Alenia Space Italia. El radar SAR de banda X funcionará primero en modo pasivo a una altitud de 619 km y, posteriormente, en modo activo una vez que el satélite se haya desplazado a una órbita más baja, a 410 km.",
+   "pad": "Ariane Launch Area 1 (ELV)",
+   "location": "Guiana Space Centre, French Guiana",
+   "webcastLive": false,
+   "boosters": [],
+   "windowEnd": "2027-04-30T00:00:00Z",
+   "timeline": [],
+   "rocket": {
+    "family": "Vega",
+    "length": 34.8,
+    "diameter": 3,
+    "reusable": false,
+    "leo": 3300,
+    "stages": "4",
+    "total": 8,
+    "ok": 7,
+    "fail": 1
+   },
+   "lat": 5.236,
+   "lon": -52.775,
+   "webcasts": [],
+   "links": [],
+   "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega-c_image_20220713154437.jpg",
+   "vehEU": true,
+   "payEU": true,
+   "euReason": [
+    "lanzador: operador Avio S.p.A",
+    "carga: Italian Space Agency"
    ]
   }
  ]
